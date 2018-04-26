@@ -15,12 +15,15 @@ Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/preact-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/preact-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/preact-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/preact-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/preact/badges/version.svg)](https://anaconda.org/conda-forge/preact)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/preact/badges/downloads.svg)](https://anaconda.org/conda-forge/preact)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-preact-green.svg)](https://anaconda.org/conda-forge/preact) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/preact.svg)](https://anaconda.org/conda-forge/preact) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/preact.svg)](https://anaconda.org/conda-forge/preact) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/preact.svg)](https://anaconda.org/conda-forge/preact) |
 
 Installing preact
 =================
