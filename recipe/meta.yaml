@@ -1,6 +1,6 @@
 {% set name = "preact" %}
-{% set version = "8.2.6" %}
-{% set sha256 = "50b43f8834ab853b5dfff7ccb58633d5e6898b3cb3514cab70cdfeff4208112e" %}
+{% set version = "8.4.2" %}
+{% set sha256 = "a11b28a0a86ce9e8706a8fa9811a44cf59c0aa64bb66adcf5fe9fb60a1a0d526" %}
 
 package:
   name: {{ name|lower }}
