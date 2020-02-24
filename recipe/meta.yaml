@@ -36,8 +36,3 @@ about:
     Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.   
   doc_url: https://preactjs.com/
   dev_url: https://github.com/developit/preact
-
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
